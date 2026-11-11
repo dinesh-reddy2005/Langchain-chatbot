@@ -12,6 +12,15 @@ An interactive AI chatbot built using **LangChain, Groq LLM, Python, and Streaml
 - Interactive Streamlit user interface
 - Secure API key configuration using environment variables
 
+## Application Screenshots
+
+### 1. Chatbot Interface
+![Chatbot Home](screenshots/chatbot-home.png)
+
+### 2. AI Generated Response
+![Chatbot Response](screenshots/chatbot-response.png)
+
+
 ## Tech Stack
 
 - **Python** – Backend development
